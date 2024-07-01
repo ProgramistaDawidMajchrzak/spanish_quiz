@@ -1,0 +1,566 @@
+[
+    {
+        "question": "Jaki jest najrzadszy minerał w Minecraft?",
+        "answers": [
+            { "answer": "Diament", "is_correct": false },
+            { "answer": "Szmaragd", "is_correct": true },
+            { "answer": "Złoto", "is_correct": false },
+            { "answer": "Żelazo", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Czego potrzebujesz do wydobycia Obsydianu?",
+        "answers": [
+            { "answer": "Żelazny Kilof", "is_correct": false },
+            { "answer": "Diamentowy Kilof", "is_correct": true },
+            { "answer": "Złoty Kilof", "is_correct": false },
+            { "answer": "Kamienny Kilof", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Creepery są zielone.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Jakiego materiału potrzebujesz do zbudowania pieca?",
+        "answers": [
+            { "answer": "Drewno", "is_correct": false },
+            { "answer": "Kamień", "is_correct": true },
+            { "answer": "Żelazo", "is_correct": false },
+            { "answer": "Dirt", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Który z tych mobów NIE jest wrogi?",
+        "answers": [
+            { "answer": "Zombie", "is_correct": false },
+            { "answer": "Creeper", "is_correct": false },
+            { "answer": "Enderman", "is_correct": false },
+            { "answer": "Krowa", "is_correct": true }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Możesz zrobić portal do Netheru używając tylko wody i lawy.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": false },
+            { "answer": "Fałsz", "is_correct": true }
+        ]
+    },
+    {
+        "question": "Który blok potrzebujesz, aby zrobić Tabelę zaklęć?",
+        "answers": [
+            { "answer": "Książki", "is_correct": false },
+            { "answer": "Diamenty", "is_correct": false },
+            { "answer": "Obsydian", "is_correct": true },
+            { "answer": "Lapis Lazuli", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Ender Dragon jest ostatnim bossem w grze.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Ile drewnianych desek potrzebujesz, aby zrobić skrzynię?",
+        "answers": [
+            { "answer": "4", "is_correct": false },
+            { "answer": "6", "is_correct": false },
+            { "answer": "8", "is_correct": true },
+            { "answer": "10", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Jakie zwierzę daje wełnę, gdy je ostrzyżesz?",
+        "answers": [
+            { "answer": "Krowa", "is_correct": false },
+            { "answer": "Owca", "is_correct": true },
+            { "answer": "Świnia", "is_correct": false },
+            { "answer": "Kurczak", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Jaka jest maksymalna liczba bloków, które możesz ustawić na stosie w ekwipunku?",
+        "answers": [
+            { "answer": "32", "is_correct": false },
+            { "answer": "64", "is_correct": true },
+            { "answer": "100", "is_correct": false },
+            { "answer": "128", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Pająki mogą wspinać się po ścianach.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Który z tych materiałów NIE jest potrzebny do stworzenia torta?",
+        "answers": [
+            { "answer": "Mleko", "is_correct": false },
+            { "answer": "Cukier", "is_correct": false },
+            { "answer": "Jajko", "is_correct": false },
+            { "answer": "Czerwony barwnik", "is_correct": true }
+        ]
+    },
+    {
+        "question": "Jakie zwierzę można oswoić za pomocą kości?",
+        "answers": [
+            { "answer": "Kot", "is_correct": false },
+            { "answer": "Wilk", "is_correct": true },
+            { "answer": "Koń", "is_correct": false },
+            { "answer": "Królik", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Lawa jest bardziej niebezpieczna niż woda.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Jaki materiał można znaleźć w Netherze?",
+        "answers": [
+            { "answer": "Piasek", "is_correct": false },
+            { "answer": "Netherrack", "is_correct": true },
+            { "answer": "Ziemia", "is_correct": false },
+            { "answer": "Żwir", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Który z tych mobów jest odporny na ogień?",
+        "answers": [
+            { "answer": "Szkielet", "is_correct": false },
+            { "answer": "Creeper", "is_correct": false },
+            { "answer": "Piglin", "is_correct": false },
+            { "answer": "Magma Cube", "is_correct": true }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Możesz upiec ziemniaki w piecu.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Ile potrzebujesz diamentów, aby zrobić diamentowy kilof?",
+        "answers": [
+            { "answer": "1", "is_correct": false },
+            { "answer": "2", "is_correct": false },
+            { "answer": "3", "is_correct": true },
+            { "answer": "4", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Które narzędzie jest używane do wydobywania minerałów?",
+        "answers": [
+            { "answer": "Łopata", "is_correct": false },
+            { "answer": "Kilof", "is_correct": true },
+            { "answer": "Siekiera", "is_correct": false },
+            { "answer": "Motyka", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Który mob wydaje charakterystyczny dźwięk 'Baa'?",
+        "answers": [
+            { "answer": "Krowa", "is_correct": false },
+            { "answer": "Owca", "is_correct": true },
+            { "answer": "Świnia", "is_correct": false },
+            { "answer": "Kurczak", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: W Minecraft można uprawiać marchewki.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Jakiego przedmiotu używasz do zapalania TNT?",
+        "answers": [
+            { "answer": "Zapałka", "is_correct": false },
+            { "answer": "Krzesiwo", "is_correct": true },
+            { "answer": "Pożoga", "is_correct": false },
+            { "answer": "Zapalniczka", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Endermeny są agresywne, jeśli na nie spojrzysz.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Który materiał potrzebujesz, aby zrobić szklane okna?",
+        "answers": [
+            { "answer": "Piasek", "is_correct": true },
+            { "answer": "Drewno", "is_correct": false },
+            { "answer": "Kamień", "is_correct": false },
+            { "answer": "Żelazo", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: W Minecraft można hodować pszczoły.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Jakiego przedmiotu używasz do zbierania wody?",
+        "answers": [
+            { "answer": "Kubeł", "is_correct": true },
+            { "answer": "Słoik", "is_correct": false },
+            { "answer": "Butelka", "is_correct": false },
+            { "answer": "Pojemnik", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Creepery wybuchają, gdy się do nich zbliżysz.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Jakie narzędzie jest używane do sadzenia nasion?",
+        "answers": [
+            { "answer": "Motyka", "is_correct": true },
+            { "answer": "Kilof", "is_correct": false },
+            { "answer": "Łopata", "is_correct": false },
+            { "answer": "Siekiera", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Smok Kresu (Ender Dragon) może latać.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Aby stworzyć portal do Kresu (End), potrzebujesz 12 oczu Endera.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Ile bloków netto odradza się smok Endu po aktywacji kryształów Endu?",
+        "answers": [
+            { "answer": "3", "is_correct": false },
+            { "answer": "4", "is_correct": true },
+            { "answer": "5", "is_correct": false },
+            { "answer": "6", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Jaki jest maksymalny poziom zaklęcia 'Looting' dla miecza?",
+        "answers": [
+            { "answer": "I", "is_correct": false },
+            { "answer": "II", "is_correct": false },
+            { "answer": "III", "is_correct": true },
+            { "answer": "IV", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Możesz użyć miodu do leczenia się w Minecraft.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": false },
+            { "answer": "Fałsz", "is_correct": true }
+        ]
+    },
+    {
+        "question": "Który mob ma najwięcej punktów życia?",
+        "answers": [
+            { "answer": "Wither", "is_correct": true },
+            { "answer": "Ender Dragon", "is_correct": false },
+            { "answer": "Elder Guardian", "is_correct": false },
+            { "answer": "Iron Golem", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Możesz stworzyć obsydian, łącząc wodę z lawą.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Ile sekund trwa efekt mikstury szybkości (Speed Potion) na poziomie podstawowym?",
+        "answers": [
+            { "answer": "30 sekund", "is_correct": false },
+            { "answer": "1 minuta", "is_correct": false },
+            { "answer": "3 minuty", "is_correct": true },
+            { "answer": "5 minut", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Jakie jest maksymalne wzmocnienie efektu zaklęcia 'Sharpness' dla miecza?",
+        "answers": [
+            { "answer": "VII", "is_correct": false },
+            { "answer": "V", "is_correct": true },
+            { "answer": "III", "is_correct": false },
+            { "answer": "VI", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Jaki jest domyślny limit wysokości budowania w Minecraft?",
+        "answers": [
+            { "answer": "128 bloków", "is_correct": false },
+            { "answer": "256 bloków", "is_correct": true },
+            { "answer": "512 bloków", "is_correct": false },
+            { "answer": "1024 bloków", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Nether Quartz można znaleźć tylko w Netherze.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Jaką zdolność posiada mob Shulker?",
+        "answers": [
+            { "answer": "Teleportację", "is_correct": false },
+            { "answer": "Levitation (lewitację)", "is_correct": true },
+            { "answer": "Wywoływanie burzy", "is_correct": false },
+            { "answer": "Kopanie tuneli", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Który blok jest potrzebny do stworzenia Observera?",
+        "answers": [
+            { "answer": "Kamień", "is_correct": false },
+            { "answer": "Kwarc", "is_correct": true },
+            { "answer": "Diament", "is_correct": false },
+            { "answer": "Drewno", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Ender Perły mogą być używane do teleportacji.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Ile bloków Redstone potrzebujesz do stworzenia Bloku Redstone?",
+        "answers": [
+            { "answer": "4", "is_correct": false },
+            { "answer": "6", "is_correct": false },
+            { "answer": "8", "is_correct": false },
+            { "answer": "9", "is_correct": true }
+        ]
+    },
+    {
+        "question": "Który mob jest odporny na ogień i nie topi się w lawie?",
+        "answers": [
+            { "answer": "Zombie", "is_correct": false },
+            { "answer": "Wither Skeleton", "is_correct": false },
+            { "answer": "Magma Cube", "is_correct": true },
+            { "answer": "Creeper", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Jaką funkcję pełni blok Soul Sand?",
+        "answers": [
+            { "answer": "Zwiększa prędkość ruchu", "is_correct": false },
+            { "answer": "Zmniejsza prędkość ruchu", "is_correct": true },
+            { "answer": "Daje efekt lewitacji", "is_correct": false },
+            { "answer": "Działa jako źródło światła", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Phantom pojawia się tylko wtedy, gdy gracz nie spał przez kilka nocy.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Jaki jest główny składnik do stworzenia Leash (smyczki)?",
+        "answers": [
+            { "answer": "Nitka", "is_correct": true },
+            { "answer": "Drewno", "is_correct": false },
+            { "answer": "Kowadło", "is_correct": false },
+            { "answer": "Papier", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Jakiego materiału potrzebujesz, aby zrobić drewniany kilof?",
+        "answers": [
+            { "answer": "Kamień", "is_correct": false },
+            { "answer": "Drewno", "is_correct": true },
+            { "answer": "Żelazo", "is_correct": false },
+            { "answer": "Diament", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Możesz hodować krowy w Minecraft.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Który z tych mobów jest pasywny?",
+        "answers": [
+            { "answer": "Creeper", "is_correct": false },
+            { "answer": "Zombie", "is_correct": false },
+            { "answer": "Kurczak", "is_correct": true },
+            { "answer": "Szkielet", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Co otrzymujesz, gdy zbierasz pszenicę?",
+        "answers": [
+            { "answer": "Kwiaty", "is_correct": false },
+            { "answer": "Zboże", "is_correct": true },
+            { "answer": "Drzewo", "is_correct": false },
+            { "answer": "Kamień", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Możesz grać w Minecraft na trybie kreatywnym.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Który z tych surowców nie jest metalem?",
+        "answers": [
+            { "answer": "Żelazo", "is_correct": false },
+            { "answer": "Złoto", "is_correct": false },
+            { "answer": "Węgiel", "is_correct": true },
+            { "answer": "Diament", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Co możesz zrobić z wełną w Minecraft?",
+        "answers": [
+            { "answer": "Tylko dekoracje", "is_correct": false },
+            { "answer": "Łóżka", "is_correct": true },
+            { "answer": "Tylko ubrania", "is_correct": false },
+            { "answer": "Tylko narzędzia", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Możesz złowić rybę w Minecraft.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Jakiego narzędzia używasz do kopania ziemi?",
+        "answers": [
+            { "answer": "Łopata", "is_correct": true },
+            { "answer": "Kilof", "is_correct": false },
+            { "answer": "Motyka", "is_correct": false },
+            { "answer": "Siekiera", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Co otrzymujesz, gdy zabijasz zombie?",
+        "answers": [
+            { "answer": "Kości", "is_correct": false },
+            { "answer": "Zgniłe mięso", "is_correct": true },
+            { "answer": "Węgiel", "is_correct": false },
+            { "answer": "Złoto", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Jak nazywa się tryb gry, w którym masz nieograniczone zasoby?",
+        "answers": [
+            { "answer": "Survival", "is_correct": false },
+            { "answer": "Adventure", "is_correct": false },
+            { "answer": "Creative", "is_correct": true },
+            { "answer": "Hardcore", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Możesz używać łóżka do spania w Netherze.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": false },
+            { "answer": "Fałsz", "is_correct": true }
+        ]
+    },
+    {
+        "question": "Jakie narzędzie jest najskuteczniejsze do ścinania drewna?",
+        "answers": [
+            { "answer": "Łopata", "is_correct": false },
+            { "answer": "Kilof", "is_correct": false },
+            { "answer": "Siekiera", "is_correct": true },
+            { "answer": "Motyka", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Możesz używać kowadła do naprawiania narzędzi.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Który z tych przedmiotów potrzebujesz do stworzenia portalu do Netheru?",
+        "answers": [
+            { "answer": "Drewno", "is_correct": false },
+            { "answer": "Żelazo", "is_correct": false },
+            { "answer": "Diament", "is_correct": false },
+            { "answer": "Obsydian", "is_correct": true }
+        ]
+    },
+    {
+        "question": "Który mob wydaje charakterystyczne dźwięki 'Sss' przed wybuchem?",
+        "answers": [
+            { "answer": "Szkielet", "is_correct": false },
+            { "answer": "Zombie", "is_correct": false },
+            { "answer": "Creeper", "is_correct": true },
+            { "answer": "Pająk", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Ender Dragon jest głównym bossem w Minecraft.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Który przedmiot jest potrzebny do hodowli pszenicy?",
+        "answers": [
+            { "answer": "Siekiera", "is_correct": false },
+            { "answer": "Motyka", "is_correct": true },
+            { "answer": "Kilof", "is_correct": false },
+            { "answer": "Łopata", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Prawda czy fałsz: Możesz grać w Minecraft w trybie wieloosobowym.",
+        "answers": [
+            { "answer": "Prawda", "is_correct": true },
+            { "answer": "Fałsz", "is_correct": false }
+        ]
+    },
+    {
+        "question": "Który surowiec jest używany do tworzenia pochodni?",
+        "answers": [
+            { "answer": "Drewno", "is_correct": false },
+            { "answer": "Kamień", "is_correct": false },
+            { "answer": "Węgiel", "is_correct": true },
+            { "answer": "Żelazo", "is_correct": false }
+        ]
+    }
+]
