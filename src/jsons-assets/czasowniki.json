@@ -1,0 +1,321 @@
+[{
+        "eng": "to eat",
+        "esp": "comer",
+        "var": ["como", "comes", "come", "comemos", "coméis", "comen"]
+    },
+    {
+        "eng": "to drink",
+        "esp": "beber",
+        "var": ["bebo", "bebes", "bebe", "bebemos", "bebéis", "beben"]
+    },
+    {
+        "eng": "to sleep",
+        "esp": "dormir",
+        "var": ["duermo", "duermes", "duerme", "dormimos", "dormís", "duermen"]
+    },
+    {
+        "eng": "to go",
+        "esp": "ir",
+        "var": ["voy", "vas", "va", "vamos", "vais", "van"]
+    },
+    {
+        "eng": "to come",
+        "esp": "venir",
+        "var": ["vengo", "vienes", "viene", "venimos", "venís", "vienen"]
+    },
+    {
+        "eng": "to see",
+        "esp": "ver",
+        "var": ["veo", "ves", "ve", "vemos", "veis", "ven"]
+    },
+    {
+        "eng": "to hear",
+        "esp": "oír",
+        "var": ["oigo", "oyes", "oye", "oímos", "oís", "oyen"]
+    },
+    {
+        "eng": "to speak",
+        "esp": "hablar",
+        "var": ["hablo", "hablas", "habla", "hablamos", "habláis", "hablan"]
+    },
+    {
+        "eng": "to write",
+        "esp": "escribir",
+        "var": ["escribo", "escribes", "escribe", "escribimos", "escribís", "escriben"]
+    },
+    {
+        "eng": "to read",
+        "esp": "leer",
+        "var": ["leo", "lees", "lee", "leemos", "leéis", "leen"]
+    },
+    {
+        "eng": "to walk",
+        "esp": "caminar",
+        "var": ["camino", "caminas", "camina", "caminamos", "camináis", "caminan"]
+    },
+    {
+        "eng": "to run",
+        "esp": "correr",
+        "var": ["corro", "corres", "corre", "corremos", "corréis", "corren"]
+    },
+    {
+        "eng": "to play",
+        "esp": "jugar",
+        "var": ["juego", "juegas", "juega", "jugamos", "jugáis", "juegan"]
+    },
+    {
+        "eng": "to understand",
+        "esp": "entender",
+        "var": ["entiendo", "entiendes", "entiende", "entendemos", "entendéis", "entienden"]
+    },
+    {
+        "eng": "to work",
+        "esp": "trabajar",
+        "var": ["trabajo", "trabajas", "trabaja", "trabajamos", "trabajáis", "trabajan"]
+    },
+    {
+        "eng": "to study",
+        "esp": "estudiar",
+        "var": ["estudio", "estudias", "estudia", "estudiamos", "estudiáis", "estudian"]
+    },
+    {
+        "eng": "to cook",
+        "esp": "cocinar",
+        "var": ["cocino", "cocinas", "cocina", "cocinamos", "cocináis", "cocinan"]
+    },
+    {
+        "eng": "to clean",
+        "esp": "limpiar",
+        "var": ["limpio", "limpias", "limpia", "limpiamos", "limpiáis", "limpian"]
+    },
+    {
+        "eng": "to buy",
+        "esp": "comprar",
+        "var": ["compro", "compras", "compra", "compramos", "compráis", "compran"]
+    },
+    {
+        "eng": "to sell",
+        "esp": "vender",
+        "var": ["vendo", "vendes", "vende", "vendemos", "vendéis", "venden"]
+    },
+    {
+        "eng": "to open",
+        "esp": "abrir",
+        "var": ["abro", "abres", "abre", "abrimos", "abrís", "abren"]
+    },
+    {
+        "eng": "to close",
+        "esp": "cerrar",
+        "var": ["cierro", "cierras", "cierra", "cerramos", "cerráis", "cierran"]
+    },
+    {
+        "eng": "to learn",
+        "esp": "aprender",
+        "var": ["aprendo", "aprendes", "aprende", "aprendemos", "aprendéis", "aprenden"]
+    },
+    {
+        "eng": "to teach",
+        "esp": "enseñar",
+        "var": ["enseño", "enseñas", "enseña", "enseñamos", "enseñáis", "enseñan"]
+    },
+    {
+        "eng": "to love",
+        "esp": "amar",
+        "var": ["amo", "amas", "ama", "amamos", "amáis", "aman"]
+    },
+    {
+        "eng": "to hate",
+        "esp": "odiar",
+        "var": ["odio", "odias", "odia", "odiamos", "odiáis", "odian"]
+    },
+    {
+        "eng": "to show",
+        "esp": "mostrar",
+        "var": ["muestro", "muestras", "muestra", "mostramos", "mostráis", "muestran"]
+    },
+    {
+        "eng": "to find",
+        "esp": "encontrar",
+        "var": ["encuentro", "encuentras", "encuentra", "encontramos", "encontráis", "encuentran"]
+    },
+    {
+        "eng": "to explain",
+        "esp": "explicar",
+        "var": ["explico", "explicas", "explica", "explicamos", "explicáis", "explican"]
+    },
+    {
+        "eng": "to wait",
+        "esp": "esperar",
+        "var": ["espero", "esperas", "espera", "esperamos", "esperáis", "esperan"]
+    },
+    {
+        "eng": "to cook",
+        "esp": "cocinar",
+        "var": ["cocino", "cocinas", "cocina", "cocinamos", "cocináis", "cocinan"]
+    },
+    {
+        "eng": "to clean",
+        "esp": "limpiar",
+        "var": ["limpio", "limpias", "limpia", "limpiamos", "limpiáis", "limpian"]
+    },
+    {
+        "eng": "to fix",
+        "esp": "arreglar",
+        "var": ["arreglo", "arreglas", "arregla", "arreglamos", "arregláis", "arreglan"]
+    },
+    {
+        "eng": "to wash",
+        "esp": "lavar",
+        "var": ["lavo", "lavas", "lava", "lavamos", "laváis", "lavan"]
+    },
+    {
+        "eng": "to paint",
+        "esp": "pintar",
+        "var": ["pinto", "pintas", "pinta", "pintamos", "pintáis", "pintan"]
+    },
+    {
+        "eng": "to drive",
+        "esp": "conducir",
+        "var": ["conduzco", "conduces", "conduce", "conducimos", "conducís", "conducen"]
+    },
+    {
+        "eng": "to repair",
+        "esp": "reparar",
+        "var": ["reparo", "reparas", "repara", "reparamos", "reparáis", "reparan"]
+    },
+    {
+        "eng": "to dance",
+        "esp": "bailar",
+        "var": ["bailo", "bailas", "baila", "bailamos", "bailáis", "bailan"]
+    },
+    {
+        "eng": "to sing",
+        "esp": "cantar",
+        "var": ["canto", "cantas", "canta", "cantamos", "cantáis", "cantan"]
+    },
+    {
+        "eng": "to build",
+        "esp": "construir",
+        "var": ["construyo", "construyes", "construye", "construimos", "construís", "construyen"]
+    },
+    {
+        "eng": "to swim",
+        "esp": "nadar",
+        "var": ["nado", "nadas", "nada", "nadamos", "nadáis", "nadan"]
+    },
+    {
+        "eng": "to listen",
+        "esp": "escuchar",
+        "var": ["escucho", "escuchas", "escucha", "escuchamos", "escucháis", "escuchan"]
+    },
+    {
+        "eng": "to buy",
+        "esp": "comprar",
+        "var": ["compro", "compras", "compra", "compramos", "compráis", "compran"]
+    },
+    {
+        "eng": "to sell",
+        "esp": "vender",
+        "var": ["vendo", "vendes", "vende", "vendemos", "vendéis", "venden"]
+    },
+    {
+        "eng": "to wait",
+        "esp": "esperar",
+        "var": ["espero", "esperas", "espera", "esperamos", "esperáis", "esperan"]
+    },
+    {
+        "eng": "to need",
+        "esp": "necesitar",
+        "var": ["necesito", "necesitas", "necesita", "necesitamos", "necesitáis", "necesitan"]
+    },
+    {
+        "eng": "to believe",
+        "esp": "creer",
+        "var": ["creo", "crees", "cree", "creemos", "creéis", "creen"]
+    },
+    {
+        "eng": "to trust",
+        "esp": "confiar",
+        "var": ["confío", "confías", "confía", "confiamos", "confiáis", "confían"]
+    },
+    {
+        "eng": "to return",
+        "esp": "regresar",
+        "var": ["regreso", "regresas", "regresa", "regresamos", "regresáis", "regresan"]
+    },
+    {
+        "eng": "to finish",
+        "esp": "terminar",
+        "var": ["termino", "terminas", "termina", "terminamos", "termináis", "terminan"]
+    },
+    {
+        "eng": "to use",
+        "esp": "usar",
+        "var": ["uso", "usas", "usa", "usamos", "usáis", "usan"]
+    },
+    {
+        "eng": "to ask",
+        "esp": "preguntar",
+        "var": ["pregunto", "preguntas", "pregunta", "preguntamos", "preguntáis", "preguntan"]
+    },
+    {
+        "eng": "to help",
+        "esp": "ayudar",
+        "var": ["ayudo", "ayudas", "ayuda", "ayudamos", "ayudáis", "ayudan"]
+    },
+    {
+        "eng": "to visit",
+        "esp": "visitar",
+        "var": ["visito", "visitas", "visita", "visitamos", "visitáis", "visitan"]
+    },
+    {
+        "eng": "to travel",
+        "esp": "viajar",
+        "var": ["viajo", "viajas", "viaja", "viajamos", "viajáis", "viajan"]
+    },
+    {
+        "eng": "to arrive",
+        "esp": "llegar",
+        "var": ["llego", "llegas", "llega", "llegamos", "llegáis", "llegan"]
+    },
+    {
+        "eng": "to leave",
+        "esp": "salir",
+        "var": ["salgo", "sales", "sale", "salimos", "salís", "salen"]
+    },
+    {
+        "eng": "to start",
+        "esp": "empezar",
+        "var": ["empiezo", "empiezas", "empieza", "empezamos", "empezáis", "empiezan"]
+    },
+    {
+        "eng": "to stop",
+        "esp": "detener",
+        "var": ["detengo", "detienes", "detiene", "detenemos", "detenéis", "detienen"]
+    },
+    {
+        "eng": "to understand",
+        "esp": "entender",
+        "var": ["entiendo", "entiendes", "entiende", "entendemos", "entendéis", "entienden"]
+    },
+    {
+        "eng": "to forget",
+        "esp": "olvidar",
+        "var": ["olvido", "olvidas", "olvida", "olvidamos", "olvidáis", "olvidan"]
+    },
+    {
+        "eng": "to remember",
+        "esp": "recordar",
+        "var": ["recuerdo", "recuerdas", "recuerda", "recordamos", "recordáis", "recuerdan"]
+    },
+    {
+        "eng": "to call",
+        "esp": "llamar",
+        "var": ["llamo", "llamas", "llama", "llamamos", "llamáis", "llaman"]
+    },
+    {
+        "eng": "to explain",
+        "esp": "explicar",
+        "var": ["explico", "explicas", "explica", "explicamos", "explicáis", "explican"]
+    }
+]

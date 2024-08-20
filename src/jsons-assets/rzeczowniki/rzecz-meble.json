@@ -1,0 +1,449 @@
+[{
+        "eng": "chair",
+        "esp": "silla"
+    },
+    {
+        "eng": "table",
+        "esp": "mesa"
+    },
+    {
+        "eng": "sofa",
+        "esp": "sofá"
+    },
+    {
+        "eng": "bed",
+        "esp": "cama"
+    },
+    {
+        "eng": "wardrobe",
+        "esp": "armario"
+    },
+    {
+        "eng": "dresser",
+        "esp": "cómoda"
+    },
+    {
+        "eng": "bookshelf",
+        "esp": "estantería"
+    },
+    {
+        "eng": "desk",
+        "esp": "escritorio"
+    },
+    {
+        "eng": "nightstand",
+        "esp": "mesita de noche"
+    },
+    {
+        "eng": "cabinet",
+        "esp": "gabinete"
+    },
+    {
+        "eng": "lamp",
+        "esp": "lámpara"
+    },
+    {
+        "eng": "rug",
+        "esp": "alfombra"
+    },
+    {
+        "eng": "curtain",
+        "esp": "cortina"
+    },
+    {
+        "eng": "mirror",
+        "esp": "espejo"
+    },
+    {
+        "eng": "refrigerator",
+        "esp": "refrigerador"
+    },
+    {
+        "eng": "stove",
+        "esp": "estufa"
+    },
+    {
+        "eng": "oven",
+        "esp": "horno"
+    },
+    {
+        "eng": "microwave",
+        "esp": "microondas"
+    },
+    {
+        "eng": "dishwasher",
+        "esp": "lavavajillas"
+    },
+    {
+        "eng": "washing machine",
+        "esp": "lavadora"
+    },
+    {
+        "eng": "dryer",
+        "esp": "secadora"
+    },
+    {
+        "eng": "toaster",
+        "esp": "tostadora"
+    },
+    {
+        "eng": "coffee maker",
+        "esp": "cafetera"
+    },
+    {
+        "eng": "blender",
+        "esp": "licuadora"
+    },
+    {
+        "eng": "kettle",
+        "esp": "tetera"
+    },
+    {
+        "eng": "iron",
+        "esp": "plancha"
+    },
+    {
+        "eng": "fan",
+        "esp": "ventilador"
+    },
+    {
+        "eng": "armchair",
+        "esp": "sillón"
+    },
+    {
+        "eng": "recliner",
+        "esp": "butaca reclinable"
+    },
+    {
+        "eng": "coffee table",
+        "esp": "mesa de café"
+    },
+    {
+        "eng": "console table",
+        "esp": "mesa consola"
+    },
+    {
+        "eng": "ottoman",
+        "esp": "puf"
+    },
+    {
+        "eng": "bench",
+        "esp": "banco"
+    },
+    {
+        "eng": "cabinet",
+        "esp": "armario"
+    },
+    {
+        "eng": "sideboard",
+        "esp": "aparador"
+    },
+    {
+        "eng": "buffet",
+        "esp": "buffet"
+    },
+    {
+        "eng": "chest of drawers",
+        "esp": "cómoda"
+    },
+    {
+        "eng": "bookcase",
+        "esp": "librero"
+    },
+    {
+        "eng": "vanity",
+        "esp": "tocador"
+    },
+    {
+        "eng": "headboard",
+        "esp": "cabecero"
+    },
+    {
+        "eng": "footboard",
+        "esp": "pie de cama"
+    },
+    {
+        "eng": "shelf",
+        "esp": "estante"
+    },
+    {
+        "eng": "nightlight",
+        "esp": "lámpara de noche"
+    },
+    {
+        "eng": "air conditioner",
+        "esp": "aire acondicionado"
+    },
+    {
+        "eng": "heater",
+        "esp": "calefactor"
+    },
+    {
+        "eng": "humidifier",
+        "esp": "humificador"
+    },
+    {
+        "eng": "dehumidifier",
+        "esp": "deshumidificador"
+    },
+    {
+        "eng": "electric kettle",
+        "esp": "tetera eléctrica"
+    },
+    {
+        "eng": "food processor",
+        "esp": "procesador de alimentos"
+    },
+    {
+        "eng": "slow cooker",
+        "esp": "olla de cocción lenta"
+    },
+    {
+        "eng": "pressure cooker",
+        "esp": "olla a presión"
+    },
+    {
+        "eng": "rice cooker",
+        "esp": "cocedor de arroz"
+    },
+    {
+        "eng": "electric grill",
+        "esp": "parrilla eléctrica"
+    },
+    {
+        "eng": "deep fryer",
+        "esp": "freidora"
+    },
+    {
+        "eng": "ice maker",
+        "esp": "máquina de hielo"
+    },
+    {
+        "eng": "vacuum cleaner",
+        "esp": "aspiradora"
+    },
+    {
+        "eng": "steam cleaner",
+        "esp": "limpiadora de vapor"
+    },
+    {
+        "eng": "garbage disposal",
+        "esp": "triturador de basura"
+    },
+    {
+        "eng": "oven",
+        "esp": "horno"
+    },
+    {
+        "eng": "hanger",
+        "esp": "perchero"
+    },
+    {
+        "eng": "shelf",
+        "esp": "estante"
+    },
+    {
+        "eng": "cabinet",
+        "esp": "armario"
+    },
+    {
+        "eng": "drawer",
+        "esp": "cajón"
+    },
+    {
+        "eng": "blind",
+        "esp": "persiana"
+    },
+    {
+        "eng": "window",
+        "esp": "ventana"
+    },
+    {
+        "eng": "picture",
+        "esp": "cuadro"
+    },
+    {
+        "eng": "radiator",
+        "esp": "radiador"
+    },
+    {
+        "eng": "door",
+        "esp": "puerta"
+    },
+    {
+        "eng": "doorknob",
+        "esp": "manilla"
+    },
+    {
+        "eng": "counter",
+        "esp": "encimera"
+    },
+    {
+        "eng": "stool",
+        "esp": "taburete"
+    },
+    {
+        "eng": "cupboard",
+        "esp": "alacena"
+    },
+    {
+        "eng": "side table",
+        "esp": "mesa auxiliar"
+    },
+    {
+        "eng": "chandelier",
+        "esp": "araña"
+    },
+    {
+        "eng": "drawer handle",
+        "esp": "tirador de cajón"
+    },
+    {
+        "eng": "coat rack",
+        "esp": "perchero de pared"
+    },
+    {
+        "eng": "dresser drawer",
+        "esp": "cajón de cómoda"
+    },
+    {
+        "eng": "television stand",
+        "esp": "soporte para televisión"
+    },
+    {
+        "eng": "fireplace",
+        "esp": "chimenea"
+    },
+    {
+        "eng": "armoire",
+        "esp": "armario ropero"
+    },
+    {
+        "eng": "console",
+        "esp": "consola"
+    },
+    {
+        "eng": "laundry basket",
+        "esp": "cesta de lavandería"
+    },
+    {
+        "eng": "storage unit",
+        "esp": "unidad de almacenamiento"
+    },
+    {
+        "eng": "folding table",
+        "esp": "mesa plegable"
+    },
+    {
+        "eng": "storage box",
+        "esp": "caja de almacenamiento"
+    },
+    {
+        "eng": "display case",
+        "esp": "vitriera"
+    },
+    {
+        "eng": "bedside table",
+        "esp": "mesilla de noche"
+    },
+    {
+        "eng": "laundry room",
+        "esp": "cuarto de lavandería"
+    },
+    {
+        "eng": "sink",
+        "esp": "lavabo"
+    },
+    {
+        "eng": "faucet",
+        "esp": "grifo"
+    },
+    {
+        "eng": "toilet",
+        "esp": "inodoro"
+    },
+    {
+        "eng": "shower",
+        "esp": "ducha"
+    },
+    {
+        "eng": "bathtub",
+        "esp": "bañera"
+    },
+    {
+        "eng": "bidet",
+        "esp": "bidé"
+    },
+    {
+        "eng": "mirror",
+        "esp": "espejo"
+    },
+    {
+        "eng": "towel rack",
+        "esp": "portatoallas"
+    },
+    {
+        "eng": "toilet paper holder",
+        "esp": "portarrollos de papel higiénico"
+    },
+    {
+        "eng": "soap dispenser",
+        "esp": "dispensador de jabón"
+    },
+    {
+        "eng": "toothbrush holder",
+        "esp": "portacepillos de dientes"
+    },
+    {
+        "eng": "plunger",
+        "esp": "desatascador"
+    },
+    {
+        "eng": "drain",
+        "esp": "desagüe"
+    },
+    {
+        "eng": "showerhead",
+        "esp": "rociador de ducha"
+    },
+    {
+        "eng": "water heater",
+        "esp": "calentador de agua"
+    },
+    {
+        "eng": "bath mat",
+        "esp": "alfombra de baño"
+    },
+    {
+        "eng": "shower curtain",
+        "esp": "cortina de ducha"
+    },
+    {
+        "eng": "towel",
+        "esp": "toalla"
+    },
+    {
+        "eng": "vanity",
+        "esp": "mueble de baño"
+    },
+    {
+        "eng": "faucet handle",
+        "esp": "maneta del grifo"
+    },
+    {
+        "eng": "flush handle",
+        "esp": "palanca de descarga"
+    },
+    {
+        "eng": "water filter",
+        "esp": "filtro de agua"
+    },
+    {
+        "eng": "bathroom cabinet",
+        "esp": "armario de baño"
+    },
+    {
+        "eng": "shower tray",
+        "esp": "bandeja de ducha"
+    }
+]

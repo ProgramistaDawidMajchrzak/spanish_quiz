@@ -1,0 +1,477 @@
+[{
+        "eng": "apple",
+        "esp": "manzana"
+    },
+    {
+        "eng": "banana",
+        "esp": "plátano"
+    },
+    {
+        "eng": "grape",
+        "esp": "uva"
+    },
+    {
+        "eng": "orange",
+        "esp": "naranja"
+    },
+    {
+        "eng": "strawberry",
+        "esp": "fresa"
+    },
+    {
+        "eng": "lemon",
+        "esp": "limón"
+    },
+    {
+        "eng": "pineapple",
+        "esp": "piña"
+    },
+    {
+        "eng": "carrot",
+        "esp": "zanahoria"
+    },
+    {
+        "eng": "tomato",
+        "esp": "tomate"
+    },
+    {
+        "eng": "potato",
+        "esp": "patata"
+    },
+    {
+        "eng": "onion",
+        "esp": "cebolla"
+    },
+    {
+        "eng": "garlic",
+        "esp": "ajo"
+    },
+    {
+        "eng": "lettuce",
+        "esp": "lechuga"
+    },
+    {
+        "eng": "pepper",
+        "esp": "pimiento"
+    },
+    {
+        "eng": "broccoli",
+        "esp": "brócoli"
+    },
+    {
+        "eng": "spinach",
+        "esp": "espinaca"
+    },
+    {
+        "eng": "rice",
+        "esp": "arroz"
+    },
+    {
+        "eng": "bread",
+        "esp": "pan"
+    },
+    {
+        "eng": "cheese",
+        "esp": "queso"
+    },
+    {
+        "eng": "butter",
+        "esp": "mantequilla"
+    },
+    {
+        "eng": "yogurt",
+        "esp": "yogur"
+    },
+    {
+        "eng": "meat",
+        "esp": "carne"
+    },
+    {
+        "eng": "chicken",
+        "esp": "pollo"
+    },
+    {
+        "eng": "fish",
+        "esp": "pescado"
+    },
+    {
+        "eng": "egg",
+        "esp": "huevo"
+    },
+    {
+        "eng": "milk",
+        "esp": "leche"
+    },
+    {
+        "eng": "water",
+        "esp": "agua"
+    },
+    {
+        "eng": "wine",
+        "esp": "vino"
+    },
+    {
+        "eng": "juice",
+        "esp": "jugo"
+    },
+    {
+        "eng": "coffee",
+        "esp": "café"
+    },
+    {
+        "eng": "peach",
+        "esp": "durazno"
+    },
+    {
+        "eng": "pear",
+        "esp": "pera"
+    },
+    {
+        "eng": "cherry",
+        "esp": "cereza"
+    },
+    {
+        "eng": "plum",
+        "esp": "ciruela"
+    },
+    {
+        "eng": "melon",
+        "esp": "melón"
+    },
+    {
+        "eng": "watermelon",
+        "esp": "sandía"
+    },
+    {
+        "eng": "apricot",
+        "esp": "albaricoque"
+    },
+    {
+        "eng": "kiwi",
+        "esp": "kiwi"
+    },
+    {
+        "eng": "avocado",
+        "esp": "aguacate"
+    },
+    {
+        "eng": "cucumber",
+        "esp": "pepino"
+    },
+    {
+        "eng": "zucchini",
+        "esp": "calabacín"
+    },
+    {
+        "eng": "eggplant",
+        "esp": "berenjena"
+    },
+    {
+        "eng": "mushroom",
+        "esp": "champiñón"
+    },
+    {
+        "eng": "cabbage",
+        "esp": "col"
+    },
+    {
+        "eng": "cauliflower",
+        "esp": "coliflor"
+    },
+    {
+        "eng": "beet",
+        "esp": "remolacha"
+    },
+    {
+        "eng": "corn",
+        "esp": "maíz"
+    },
+    {
+        "eng": "beans",
+        "esp": "frijoles"
+    },
+    {
+        "eng": "peas",
+        "esp": "guisantes"
+    },
+    {
+        "eng": "chickpeas",
+        "esp": "garbanzos"
+    },
+    {
+        "eng": "lentils",
+        "esp": "lentejas"
+    },
+    {
+        "eng": "pasta",
+        "esp": "pasta"
+    },
+    {
+        "eng": "flour",
+        "esp": "harina"
+    },
+    {
+        "eng": "sugar",
+        "esp": "azúcar"
+    },
+    {
+        "eng": "salt",
+        "esp": "sal"
+    },
+    {
+        "eng": "pepper",
+        "esp": "pimienta"
+    },
+    {
+        "eng": "oil",
+        "esp": "aceite"
+    },
+    {
+        "eng": "vinegar",
+        "esp": "vinagre"
+    },
+    {
+        "eng": "mustard",
+        "esp": "mostaza"
+    },
+    {
+        "eng": "honey",
+        "esp": "miel"
+    },
+    {
+        "eng": "almond",
+        "esp": "almendra"
+    },
+    {
+        "eng": "walnut",
+        "esp": "nuez"
+    },
+    {
+        "eng": "hazelnut",
+        "esp": "avellana"
+    },
+    {
+        "eng": "peanut",
+        "esp": "cacahuete"
+    },
+    {
+        "eng": "cashew",
+        "esp": "anacardo"
+    },
+    {
+        "eng": "pistachio",
+        "esp": "pistacho"
+    },
+    {
+        "eng": "raisin",
+        "esp": "pasa"
+    },
+    {
+        "eng": "coconut",
+        "esp": "coco"
+    },
+    {
+        "eng": "buttermilk",
+        "esp": "suero de leche"
+    },
+    {
+        "eng": "cream",
+        "esp": "crema"
+    },
+    {
+        "eng": "whipped cream",
+        "esp": "nata montada"
+    },
+    {
+        "eng": "sour cream",
+        "esp": "crema agria"
+    },
+    {
+        "eng": "yogurt",
+        "esp": "yogur"
+    },
+    {
+        "eng": "mayonnaise",
+        "esp": "mayonesa"
+    },
+    {
+        "eng": "ketchup",
+        "esp": "kétchup"
+    },
+    {
+        "eng": "sauce",
+        "esp": "salsa"
+    },
+    {
+        "eng": "jam",
+        "esp": "mermelada"
+    },
+    {
+        "eng": "bread roll",
+        "esp": "panecillo"
+    },
+    {
+        "eng": "baguette",
+        "esp": "baguette"
+    },
+    {
+        "eng": "biscuit",
+        "esp": "galleta"
+    },
+    {
+        "eng": "pie",
+        "esp": "pastel"
+    },
+    {
+        "eng": "cake",
+        "esp": "tarta"
+    },
+    {
+        "eng": "cookie",
+        "esp": "galleta"
+    },
+    {
+        "eng": "muffin",
+        "esp": "magdalena"
+    },
+    {
+        "eng": "pancake",
+        "esp": "panqueque"
+    },
+    {
+        "eng": "waffle",
+        "esp": "gofre"
+    },
+    {
+        "eng": "olive oil",
+        "esp": "aceite de oliva"
+    },
+    {
+        "eng": "basil",
+        "esp": "albahaca"
+    },
+    {
+        "eng": "oregano",
+        "esp": "orégano"
+    },
+    {
+        "eng": "thyme",
+        "esp": "tomillo"
+    },
+    {
+        "eng": "soup",
+        "esp": "sopa"
+    },
+    {
+        "eng": "broth",
+        "esp": "caldo"
+    },
+    {
+        "eng": "stew",
+        "esp": "guiso"
+    },
+    {
+        "eng": "noodle soup",
+        "esp": "sopa de fideos"
+    },
+    {
+        "eng": "beef",
+        "esp": "carne de res"
+    },
+    {
+        "eng": "pork",
+        "esp": "carne de cerdo"
+    },
+    {
+        "eng": "chop",
+        "esp": "chuleta"
+    },
+    {
+        "eng": "sausage",
+        "esp": "salchicha"
+    },
+    {
+        "eng": "bacon",
+        "esp": "tocino"
+    },
+    {
+        "eng": "steak",
+        "esp": "bistec"
+    },
+    {
+        "eng": "ground meat",
+        "esp": "carne molida"
+    },
+    {
+        "eng": "lamb",
+        "esp": "cordero"
+    },
+    {
+        "eng": "turkey",
+        "esp": "pavo"
+    },
+    {
+        "eng": "ham",
+        "esp": "jamón"
+    },
+    {
+        "eng": "garlic",
+        "esp": "ajo"
+    },
+    {
+        "eng": "onion",
+        "esp": "cebolla"
+    },
+    {
+        "eng": "leek",
+        "esp": "puerro"
+    },
+    {
+        "eng": "chili",
+        "esp": "chile"
+    },
+    {
+        "eng": "ginger",
+        "esp": "jengibre"
+    },
+    {
+        "eng": "cinnamon",
+        "esp": "canela"
+    },
+    {
+        "eng": "clove",
+        "esp": "clavo"
+    },
+    {
+        "eng": "bay leaf",
+        "esp": "laurel"
+    },
+    {
+        "eng": "turmeric",
+        "esp": "cúrcuma"
+    },
+    {
+        "eng": "cumin",
+        "esp": "comino"
+    },
+    {
+        "eng": "paprika",
+        "esp": "pimentón"
+    },
+    {
+        "eng": "soy sauce",
+        "esp": "salsa de soja"
+    },
+    {
+        "eng": "vinegar",
+        "esp": "vinagre"
+    },
+    {
+        "eng": "mustard",
+        "esp": "mostaza"
+    },
+    {
+        "eng": "syrup",
+        "esp": "jarabe"
+    }
+]

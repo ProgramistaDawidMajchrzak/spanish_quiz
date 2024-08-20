@@ -1,4 +1,4 @@
-body{
+body {
   width: 100%;
   height: 100vh;
   padding: 0;
@@ -10,14 +10,16 @@ body{
   background-size: cover;
   font-family: "Montserrat", sans-serif;
 }
-.mobile-box{
+
+.mobile-box {
   max-width: 400px;
   height: 100vh;
   position: relative;
   left: 50%;
   transform: translate(-50%, 0);
 }
-.mobile-background{
+
+.mobile-background {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -26,27 +28,33 @@ body{
   opacity: .5;
   z-index: 5;
 }
-.mobile-content{
+
+.mobile-content {
   position: absolute;
   width: 100%;
   height: 100%;
   z-index: 10;
 }
-.mobile-content .logo{
-  margin: 16px;
+
+.mobile-content .logo {
+  margin: 3rem;
 }
-.welcome{
+
+.welcome {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-.welcome .logo{
+
+.welcome .logo {
   width: 60%;
 }
-.welcome .mine-logo{
+
+.welcome .mine-logo {
   width: 90%;
 }
-.start-btn{
+
+.start-btn {
   padding: 12px 22px;
   width: 80%;
   font-size: 22px;
@@ -55,31 +63,70 @@ body{
   font-weight: 700;
   border: none;
   border-radius: 12px;
-  position: absolute;
+  margin-top: 1rem;
   bottom: 75px;
   letter-spacing: 2px;
 }
-.mobile-content h2{
+
+.exit-btn {
+  position: absolute;
+  padding: 12px 22px;
+  font-size: 22px;
+  background-color: #ED7F2D;
+  color: white;
+  font-weight: 700;
+  border: none;
+  border-radius: 12px;
+  margin-top: 1rem;
+  top: 75px;
+  right: 20px;
+  letter-spacing: 2px;
+}
+
+.mobile-content h2 {
   font-size: 28px;
   text-align: center;
   /* color: #ED7F2D; */
   color: white;
   padding: 0 8px;
-  text-shadow: 
-                -1px -1px 0 #000,  
-                 1px -1px 0 #000,
-                -1px  1px 0 #000,
-                 1px  1px 0 #000;
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
 }
-.mobile-content .answers{
+
+.answers .esp {
+  font-size: 28px;
+  text-align: center;
+  color: #ED7F2D;
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.answers .small {
+  font-size: 21px !important;
+  display: block;
+  padding: 0;
+  margin: 0;
+}
+
+.mobile-content .answers {
+  border: 2px solid #ED7F2D;
+  border-radius: 4px;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 5%;
+  flex-direction: column;
+  justify-content: start;
   width: 100%;
   margin-top: 100px;
+  position: relative;
+  height: 50vh;
 }
-.answer{
+
+.answer {
   padding: 0 6px;
   display: flex;
   justify-content: center;
@@ -105,7 +152,8 @@ body{
   background-color: red;
   color: white;
 }
-.score{
+
+.score {
   position: absolute;
   right: 20px;
   top: 40px;

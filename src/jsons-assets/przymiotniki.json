@@ -1,0 +1,331 @@
+[{
+        "eng": "happy",
+        "esp": "feliz",
+        "var": ["feliz", "felices"]
+    },
+    {
+        "eng": "big",
+        "esp": "grande",
+        "var": ["grande", "grandes"]
+    },
+    {
+        "eng": "small",
+        "esp": "pequeño",
+        "var": ["pequeño", "pequeña", "pequeños", "pequeñas"]
+    },
+    {
+        "eng": "new",
+        "esp": "nuevo",
+        "var": ["nuevo", "nueva", "nuevos", "nuevas"]
+    },
+    {
+        "eng": "old",
+        "esp": "viejo",
+        "var": ["viejo", "vieja", "viejos", "viejas"]
+    },
+    {
+        "eng": "beautiful",
+        "esp": "hermoso",
+        "var": ["hermoso", "hermosa", "hermosos", "hermosas"]
+    },
+    {
+        "eng": "ugly",
+        "esp": "feo",
+        "var": ["feo", "fea", "feos", "feas"]
+    },
+    {
+        "eng": "fast",
+        "esp": "rápido",
+        "var": ["rápido", "rápida", "rápidos", "rápidas"]
+    },
+    {
+        "eng": "slow",
+        "esp": "lento",
+        "var": ["lento", "lenta", "lentos", "lentas"]
+    },
+    {
+        "eng": "cold",
+        "esp": "frío",
+        "var": ["frío", "fría", "fríos", "frías"]
+    },
+    {
+        "eng": "hot",
+        "esp": "caliente",
+        "var": ["caliente", "calientes"]
+    },
+    {
+        "eng": "long",
+        "esp": "largo",
+        "var": ["largo", "larga", "largos", "largas"]
+    },
+    {
+        "eng": "short",
+        "esp": "corto",
+        "var": ["corto", "corta", "cortos", "cortas"]
+    },
+    {
+        "eng": "easy",
+        "esp": "fácil",
+        "var": ["fácil", "fáciles"]
+    },
+    {
+        "eng": "difficult",
+        "esp": "difícil",
+        "var": ["difícil", "difíciles"]
+    },
+    {
+        "eng": "heavy",
+        "esp": "pesado",
+        "var": ["pesado", "pesada", "pesados", "pesadas"]
+    },
+    {
+        "eng": "light",
+        "esp": "ligero",
+        "var": ["ligero", "ligera", "ligeros", "ligeras"]
+    },
+    {
+        "eng": "rich",
+        "esp": "rico",
+        "var": ["rico", "rica", "ricos", "ricas"]
+    },
+    {
+        "eng": "poor",
+        "esp": "pobre",
+        "var": ["pobre", "pobres"]
+    },
+    {
+        "eng": "young",
+        "esp": "joven",
+        "var": ["joven", "jóvenes"]
+    },
+    {
+        "eng": "old",
+        "esp": "anciano",
+        "var": ["anciano", "anciana", "ancianos", "ancianas"]
+    },
+    {
+        "eng": "expensive",
+        "esp": "caro",
+        "var": ["caro", "cara", "caros", "caras"]
+    },
+    {
+        "eng": "cheap",
+        "esp": "barato",
+        "var": ["barato", "barata", "baratos", "baratas"]
+    },
+    {
+        "eng": "dangerous",
+        "esp": "peligroso",
+        "var": ["peligroso", "peligrosa", "peligrosos", "peligrosas"]
+    },
+    {
+        "eng": "safe",
+        "esp": "seguro",
+        "var": ["seguro", "segura", "seguros", "seguras"]
+    },
+    {
+        "eng": "hard",
+        "esp": "duro",
+        "var": ["duro", "dura", "duros", "duras"]
+    },
+    {
+        "eng": "soft",
+        "esp": "blando",
+        "var": ["blando", "blanda", "blandos", "blandas"]
+    },
+    {
+        "eng": "sweet",
+        "esp": "dulce",
+        "var": ["dulce", "dulces"]
+    },
+    {
+        "eng": "bitter",
+        "esp": "amargo",
+        "var": ["amargo", "amarga", "amargos", "amargas"]
+    },
+    {
+        "eng": "funny",
+        "esp": "divertido",
+        "var": ["divertido", "divertida", "divertidos", "divertidas"]
+    },
+    {
+        "eng": "serious",
+        "esp": "serio",
+        "var": ["serio", "seria", "serios", "serias"]
+    },
+    {
+        "eng": "tall",
+        "esp": "alto",
+        "var": ["alto", "alta", "altos", "altas"]
+    },
+    {
+        "eng": "short",
+        "esp": "bajo",
+        "var": ["bajo", "baja", "bajos", "bajas"]
+    },
+    {
+        "eng": "clean",
+        "esp": "limpio",
+        "var": ["limpio", "limpia", "limpios", "limpias"]
+    },
+    {
+        "eng": "dirty",
+        "esp": "sucio",
+        "var": ["sucio", "sucia", "sucios", "sucias"]
+    },
+    {
+        "eng": "hardworking",
+        "esp": "trabajador",
+        "var": ["trabajador", "trabajadora", "trabajadores", "trabajadoras"]
+    },
+    {
+        "eng": "lazy",
+        "esp": "perezoso",
+        "var": ["perezoso", "perezosa", "perezosos", "perezosas"]
+    },
+    {
+        "eng": "rich",
+        "esp": "rico",
+        "var": ["rico", "rica", "ricos", "ricas"]
+    },
+    {
+        "eng": "poor",
+        "esp": "pobre",
+        "var": ["pobre", "pobres"]
+    },
+    {
+        "eng": "busy",
+        "esp": "ocupado",
+        "var": ["ocupado", "ocupada", "ocupados", "ocupadas"]
+    },
+    {
+        "eng": "free",
+        "esp": "libre",
+        "var": ["libre", "libres"]
+    },
+    {
+        "eng": "soft",
+        "esp": "suave",
+        "var": ["suave", "suaves"]
+    },
+    {
+        "eng": "hard",
+        "esp": "duro",
+        "var": ["duro", "dura", "duros", "duras"]
+    },
+    {
+        "eng": "heavy",
+        "esp": "pesado",
+        "var": ["pesado", "pesada", "pesados", "pesadas"]
+    },
+    {
+        "eng": "light",
+        "esp": "ligero",
+        "var": ["ligero", "ligera", "ligeros", "ligeras"]
+    },
+    {
+        "eng": "beautiful",
+        "esp": "hermoso",
+        "var": ["hermoso", "hermosa", "hermosos", "hermosas"]
+    },
+    {
+        "eng": "ugly",
+        "esp": "feo",
+        "var": ["feo", "fea", "feos", "feas"]
+    },
+    {
+        "eng": "sweet",
+        "esp": "dulce",
+        "var": ["dulce", "dulces"]
+    },
+    {
+        "eng": "bitter",
+        "esp": "amargo",
+        "var": ["amargo", "amarga", "amargos", "amargas"]
+    },
+    {
+        "eng": "cheap",
+        "esp": "barato",
+        "var": ["barato", "barata", "baratos", "baratas"]
+    },
+    {
+        "eng": "expensive",
+        "esp": "caro",
+        "var": ["caro", "cara", "caros", "caras"]
+    },
+    {
+        "eng": "short",
+        "esp": "corto",
+        "var": ["corto", "corta", "cortos", "cortas"]
+    },
+    {
+        "eng": "long",
+        "esp": "largo",
+        "var": ["largo", "larga", "largos", "largas"]
+    },
+    {
+        "eng": "good",
+        "esp": "bueno",
+        "var": ["bueno", "buena", "buenos", "buenas"]
+    },
+    {
+        "eng": "bad",
+        "esp": "malo",
+        "var": ["malo", "mala", "malos", "malas"]
+    },
+    {
+        "eng": "interesting",
+        "esp": "interesante",
+        "var": ["interesante", "interesantes"]
+    },
+    {
+        "eng": "boring",
+        "esp": "aburrido",
+        "var": ["aburrido", "aburrida", "aburridos", "aburridas"]
+    },
+    {
+        "eng": "calm",
+        "esp": "tranquilo",
+        "var": ["tranquilo", "tranquila", "tranquilos", "tranquilas"]
+    },
+    {
+        "eng": "nervous",
+        "esp": "nervioso",
+        "var": ["nervioso", "nerviosa", "nerviosos", "nerviosas"]
+    },
+    {
+        "eng": "strong",
+        "esp": "fuerte",
+        "var": ["fuerte", "fuertes"]
+    },
+    {
+        "eng": "weak",
+        "esp": "débil",
+        "var": ["débil", "débiles"]
+    },
+    {
+        "eng": "rich",
+        "esp": "rico",
+        "var": ["rico", "rica", "ricos", "ricas"]
+    },
+    {
+        "eng": "poor",
+        "esp": "pobre",
+        "var": ["pobre", "pobres"]
+    },
+    {
+        "eng": "beautiful",
+        "esp": "hermoso",
+        "var": ["hermoso", "hermosa", "hermosos", "hermosas"]
+    },
+    {
+        "eng": "ugly",
+        "esp": "feo",
+        "var": ["feo", "fea", "feos", "feas"]
+    },
+    {
+        "eng": "hard",
+        "esp": "duro",
+        "var": ["duro", "dura", "duros", "duras"]
+    }
+]

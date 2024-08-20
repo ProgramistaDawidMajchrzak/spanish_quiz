@@ -1,19 +1,60 @@
-import React from 'react';
+import React, {useState} from 'react';
 import MobileBox from './mobile-box';
-import Logo from '../images/logo.svg';
-import MineLogo from '../images/mine-logo.png';
-// import MineBlock from '../images/mine-block.png';
+import SpainFlag from '../images/flag-spain.jpeg';
+import { Motion } from '../views/motion';
+import { AnimatePresence } from 'framer-motion';
 
-function Welcome({ setStartGame }) {
+function Welcome({ setStartGame, setMode, setRzeczMode, rzeczMode }) {
+    
     return (
         <MobileBox>
-            <div className="welcome">
-                <img className='logo' src={Logo} alt="logo" />
-                <h2>Rozwiąż QUIZ z </h2>
-                <img className='mine-logo' src={MineLogo} alt="logo" />
-                {/* <img className='logo' src={MineBlock} alt="logo" /> */}
-                <button onClick={() => setStartGame(true)} className='start-btn'>START</button>
-            </div>
+            <AnimatePresence mode="wait">
+                <Motion>
+                    {rzeczMode ? 
+                    <div className="welcome">
+                        <img className='logo' src={SpainFlag} alt="logo" />
+                        <button onClick={() => {
+                             setRzeczMode(false);
+                        }} className='start-btn'>Wstecz</button>
+                        <button onClick={() => {
+                            setMode('rzeczowniki')
+                            setStartGame(true)
+                        }} className='start-btn'>Ogólne</button>
+                        <button onClick={() => {
+                            setMode('rzeczJedzenie')
+                            setStartGame(true)
+                        }} className='start-btn'>Jedzenie</button>
+                        <button onClick={() => {
+                            setMode('rzeczMeble')
+                            setStartGame(true)
+                        }} className='start-btn'>Meble</button>
+                        <button onClick={() => {
+                            setMode('rzeczOdzież')
+                            setStartGame(true)
+                        }} className='start-btn'>Odzież</button>
+                    </div>
+                    :
+                    <div className="welcome">
+                        <img className='logo' src={SpainFlag} alt="logo" />
+                        <button onClick={() => {
+                            setMode('wyrazenia')
+                            setStartGame(true)
+                        }} className='start-btn'>Wyrażenia</button>
+                        <button onClick={() => {
+                            setRzeczMode(true);
+                        }} className='start-btn'>Rzeczowniki</button>
+                        <button onClick={() => {
+                            setMode('czasowniki')
+                            setStartGame(true)
+                        }} className='start-btn'>Czasowniki</button>
+                        <button onClick={() => {
+                            setMode('przymiotniki')
+                            setStartGame(true)
+                        }} className='start-btn'>Przymiotniki</button>
+                    </div>
+                    }
+                 </Motion>
+            </AnimatePresence>
         </MobileBox>
     )
 }

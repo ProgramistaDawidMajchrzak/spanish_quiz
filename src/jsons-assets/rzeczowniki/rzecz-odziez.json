@@ -1,0 +1,433 @@
+[{
+        "eng": "shirt",
+        "esp": "camisa"
+    },
+    {
+        "eng": "blouse",
+        "esp": "blusa"
+    },
+    {
+        "eng": "jacket",
+        "esp": "chaqueta"
+    },
+    {
+        "eng": "coat",
+        "esp": "abrigo"
+    },
+    {
+        "eng": "sweater",
+        "esp": "suéter"
+    },
+    {
+        "eng": "cardigan",
+        "esp": "chaqueta de punto"
+    },
+    {
+        "eng": "t-shirt",
+        "esp": "camiseta"
+    },
+    {
+        "eng": "dress",
+        "esp": "vestido"
+    },
+    {
+        "eng": "skirt",
+        "esp": "falda"
+    },
+    {
+        "eng": "trousers",
+        "esp": "pantalones"
+    },
+    {
+        "eng": "jeans",
+        "esp": "jeans"
+    },
+    {
+        "eng": "shorts",
+        "esp": "pantalones cortos"
+    },
+    {
+        "eng": "suit",
+        "esp": "traje"
+    },
+    {
+        "eng": "blazer",
+        "esp": "blazer"
+    },
+    {
+        "eng": "vest",
+        "esp": "chaleco"
+    },
+    {
+        "eng": "tie",
+        "esp": "corbata"
+    },
+    {
+        "eng": "scarf",
+        "esp": "bufanda"
+    },
+    {
+        "eng": "hat",
+        "esp": "sombrero"
+    },
+    {
+        "eng": "cap",
+        "esp": "gorra"
+    },
+    {
+        "eng": "gloves",
+        "esp": "guantes"
+    },
+    {
+        "eng": "socks",
+        "esp": "calcetines"
+    },
+    {
+        "eng": "shoes",
+        "esp": "zapatos"
+    },
+    {
+        "eng": "boots",
+        "esp": "botas"
+    },
+    {
+        "eng": "sandals",
+        "esp": "sandalias"
+    },
+    {
+        "eng": "underwear",
+        "esp": "ropa interior"
+    },
+    {
+        "eng": "bra",
+        "esp": "sujetador"
+    },
+    {
+        "eng": "panties",
+        "esp": "bragas"
+    },
+    {
+        "eng": "pajamas",
+        "esp": "pijamas"
+    },
+    {
+        "eng": "robe",
+        "esp": "bata"
+    },
+    {
+        "eng": "belt",
+        "esp": "cinturón"
+    },
+    {
+        "eng": "wallet",
+        "esp": "cartera"
+    },
+    {
+        "eng": "sunglasses",
+        "esp": "gafas de sol"
+    },
+    {
+        "eng": "umbrella",
+        "esp": "sombrilla"
+    },
+    {
+        "eng": "raincoat",
+        "esp": "impermeable"
+    },
+    {
+        "eng": "swimsuit",
+        "esp": "traje de baño"
+    },
+    {
+        "eng": "polo shirt",
+        "esp": "camiseta polo"
+    },
+    {
+        "eng": "overalls",
+        "esp": "mono"
+    },
+    {
+        "eng": "sweater",
+        "esp": "suéter"
+    },
+    {
+        "eng": "turtleneck",
+        "esp": "suéter de cuello alto"
+    },
+    {
+        "eng": "hoodie",
+        "esp": "sudadera con capucha"
+    },
+    {
+        "eng": "polo shirt",
+        "esp": "camiseta polo"
+    },
+    {
+        "eng": "suit jacket",
+        "esp": "chaqueta de traje"
+    },
+    {
+        "eng": "slacks",
+        "esp": "pantalones de vestir"
+    },
+    {
+        "eng": "capris",
+        "esp": "pantalones capri"
+    },
+    {
+        "eng": "legging",
+        "esp": "leggins"
+    },
+    {
+        "eng": "culottes",
+        "esp": "culottes"
+    },
+    {
+        "eng": "sundress",
+        "esp": "vestido de verano"
+    },
+    {
+        "eng": "jumpsuit",
+        "esp": "mono"
+    },
+    {
+        "eng": "romper",
+        "esp": "mono corto"
+    },
+    {
+        "eng": "kimono",
+        "esp": "kimono"
+    },
+    {
+        "eng": "waistcoat",
+        "esp": "chaleco"
+    },
+    {
+        "eng": "overcoat",
+        "esp": "abrigo largo"
+    },
+    {
+        "eng": "trench coat",
+        "esp": "trench"
+    },
+    {
+        "eng": "anorak",
+        "esp": "anorak"
+    },
+    {
+        "eng": "fleece",
+        "esp": "forro polar"
+    },
+    {
+        "eng": "bathrobe",
+        "esp": "bata de baño"
+    },
+    {
+        "eng": "pajama pants",
+        "esp": "pantalones de pijama"
+    },
+    {
+        "eng": "sleep shirt",
+        "esp": "camisón"
+    },
+    {
+        "eng": "slippers",
+        "esp": "zapatillas de casa"
+    },
+    {
+        "eng": "sneakers",
+        "esp": "zapatillas deportivas"
+    },
+    {
+        "eng": "loafers",
+        "esp": "mocasines"
+    },
+    {
+        "eng": "oxfords",
+        "esp": "oxford"
+    },
+    {
+        "eng": "mules",
+        "esp": "zuecos"
+    },
+    {
+        "eng": "espadrilles",
+        "esp": "espadrilles"
+    },
+    {
+        "eng": "beret",
+        "esp": "boina"
+    },
+    {
+        "eng": "beanie",
+        "esp": "gorro"
+    },
+    {
+        "eng": "headband",
+        "esp": "diadema"
+    },
+    {
+        "eng": "scarf",
+        "esp": "bufanda"
+    },
+    {
+        "eng": "gloves",
+        "esp": "guantes"
+    },
+    {
+        "eng": "mittens",
+        "esp": "manoplas"
+    },
+    {
+        "eng": "suspenders",
+        "esp": "tirantes"
+    },
+    {
+        "eng": "belt buckle",
+        "esp": "hebilla de cinturón"
+    },
+    {
+        "eng": "fashion accessory",
+        "esp": "accesorio de moda"
+    },
+    {
+        "eng": "jewelry",
+        "esp": "joyería"
+    },
+    {
+        "eng": "necklace",
+        "esp": "collar"
+    },
+    {
+        "eng": "bracelet",
+        "esp": "pulsera"
+    },
+    {
+        "eng": "ring",
+        "esp": "anillo"
+    },
+    {
+        "eng": "earrings",
+        "esp": "pendientes"
+    },
+    {
+        "eng": "shoelaces",
+        "esp": "cordones"
+    },
+    {
+        "eng": "pajamas",
+        "esp": "pijamas"
+    },
+    {
+        "eng": "nightgown",
+        "esp": "camisón"
+    },
+    {
+        "eng": "bathrobe",
+        "esp": "bata de baño"
+    },
+    {
+        "eng": "thermal underwear",
+        "esp": "ropa interior térmica"
+    },
+    {
+        "eng": "thermal shirt",
+        "esp": "camisa térmica"
+    },
+    {
+        "eng": "thermal pants",
+        "esp": "pantalones térmicos"
+    },
+    {
+        "eng": "underpants",
+        "esp": "calzoncillos"
+    },
+    {
+        "eng": "briefs",
+        "esp": "calzoncillos"
+    },
+    {
+        "eng": "boxers",
+        "esp": "boxers"
+    },
+    {
+        "eng": "corset",
+        "esp": "corsé"
+    },
+    {
+        "eng": "suspenders",
+        "esp": "tirantes"
+    },
+    {
+        "eng": "sash",
+        "esp": "cinturón"
+    },
+    {
+        "eng": "fanny pack",
+        "esp": "riñonera"
+    },
+    {
+        "eng": "satchel",
+        "esp": "bandolera"
+    },
+    {
+        "eng": "tote bag",
+        "esp": "bolso de mano"
+    },
+    {
+        "eng": "clutch",
+        "esp": "clutch"
+    },
+    {
+        "eng": "wallet",
+        "esp": "cartera"
+    },
+    {
+        "eng": "backpack",
+        "esp": "mochila"
+    },
+    {
+        "eng": "handbag",
+        "esp": "bolso"
+    },
+    {
+        "eng": "beret",
+        "esp": "boina"
+    },
+    {
+        "eng": "beanie",
+        "esp": "gorro"
+    },
+    {
+        "eng": "cap",
+        "esp": "gorra"
+    },
+    {
+        "eng": "visor",
+        "esp": "visor"
+    },
+    {
+        "eng": "headscarf",
+        "esp": "pañuelo para la cabeza"
+    },
+    {
+        "eng": "shawl",
+        "esp": "chal"
+    },
+    {
+        "eng": "trousers",
+        "esp": "pantalones"
+    },
+    {
+        "eng": "leggings",
+        "esp": "leggins"
+    },
+    {
+        "eng": "tracksuit",
+        "esp": "chándal"
+    },
+    {
+        "eng": "raincoat",
+        "esp": "impermeable"
+    }
+]
