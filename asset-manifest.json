@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/spanish_quiz/static/css/main.67ef3463.css",
+    "main.js": "/spanish_quiz/static/js/main.65818dbe.js",
+    "static/js/453.77de7b76.chunk.js": "/spanish_quiz/static/js/453.77de7b76.chunk.js",
+    "static/media/jungle.png": "/spanish_quiz/static/media/jungle.772f5a12763791267b35.png",
+    "index.html": "/spanish_quiz/index.html",
+    "main.67ef3463.css.map": "/spanish_quiz/static/css/main.67ef3463.css.map",
+    "main.65818dbe.js.map": "/spanish_quiz/static/js/main.65818dbe.js.map",
+    "453.77de7b76.chunk.js.map": "/spanish_quiz/static/js/453.77de7b76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67ef3463.css",
+    "static/js/main.65818dbe.js"
+  ]
+}
